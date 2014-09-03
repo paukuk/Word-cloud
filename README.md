@@ -5,8 +5,7 @@ Word cloud is a basic visual representation composed of words used in
 particular text or subject, in which the size of each word indicates its 
 frequency or importance. 
 
-Word cloud is going to be used to depict keyword metadata(tags) on websites, or 
-to visualize free form text.
+Word cloud is going to be used to visualize free form text.
 
 Please report bugs in Word cloud to paukuk@gmail.com.
 
